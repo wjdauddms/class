@@ -1,0 +1,79 @@
+  """
+boolean variables
+"""
+​
+is_tested = False
+print(type(is_tested))
+​
+a= "3.14"
+print(type(a))
+<class 'bool'>
+<class 'str'>
+chr = 'a'
+​
+   print("말티지 맞아요.")
+    if age < 3:
+        print("말티지 새끼에요.")
+    
+elif puppy == "poodle":
+    is_yes = True
+    print("푸들 맞아요.")
+    
+else:
+    is_yes = True
+"""
+conditional statements
+"""
+​
+puppy = "maltepoo"
+is_yes = False
+​
+if puppy == "maltese":
+    is_yes = True
+    print("말티지 맞아요.")
+    if age < 3:
+        print("말티지 새끼에요.")
+    
+elif puppy == "poodle":
+    is_yes = True
+    print("푸들 맞아요.")
+    
+else:
+    is_yes = True
+    print("말티푸 맞아요.")
+    
+print(is_yes)
+    
+말티푸 맞아요.
+True
+"Exception Handling"
+
+x = 1 
+
+try:
+    print(y)
+    print(x)
+except:"
+"Exception Handling"
+​
+x = 1 
+​
+try:
+    print(y)
+    print(x)
+except:"""
+conditional statements
+"""
+​
+puppy = "maltepoo"
+is_yes = False
+​
+if puppy == "maltese":
+    is_yes = True
+    print("말티지 맞아요.")
+    print('[Error]')
+​
+print("continue...")
+    
+[Error]
+continue...
