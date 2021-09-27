@@ -1,0 +1,85 @@
+print() function
+"""
+​
+print("Hello world!")
+print(100)
+pi = 3.14
+print(pi)
+​
+intro = "My name is "
+name = "Hyun Ahn"
+​
+print( intro + name)
+Hello world!
+100
+3.14
+My name is Hyun Ahn
+"""
+Variables
+"""
+​
+user_name = "Myeong Eun"
+user_id = 201655031
+user_email = "wjdauddms@hs.ac.kr"
+is_student = False
+​
+# 본인을 표현할 수 있는 세 가지 이상의 정보를 변수로 정의하시오.
+"""
+Data Types: Integers
+"""
+
+"""
+Data Types: Integers
+"""
+​
+sofas = 1
+tables = 2
+chairs = 5
+​
+# 본인의 집에 있는 사물의 개수를 정수 유형의 변수로 정의하시오(세 가지 이상)
+"""
+Data Types: Real Numbers
+"""
+​
+PI = 3.14
+kospi_index = 3125.76
+samsung_index = 77600
+​
+#본인이 알고 있는 실수를 변수로 정의하시오(세가지 이상).
+favorite_food = "chicken"
+
+#본인이 좋아하는 것들을 문자열 변수로 정의하시오.
+favorites = favorite_person + favorite_game + favorite_food 
+prin
+"""
+Data Types: Strings
+"""
+​
+favorite_person = "admiral Yi Sun shin"
+favorite_game = "LoL"
+favorite_food = "chicken"
+​
+#본인이 좋아하는 것들을 문자열 변수로 정의하시오.
+favorites = favorite_person + favorite_game + favorite_food 
+print(favorites)
+admiral Yi Sun shinLoLchicken
+"""
+Plus-Equals Operations
+"""
+a = 8
+a /= 2
+print(a)
+4.0
+"""
+Errors
+"""
+# Name Errors
+​
+​
+my_school = "HSU"
+print(my_school)
+HSU
+x = 1
+# 레벨 1
+## 레벨 2
+다음의 코드는 무엇을 수행합니다.
